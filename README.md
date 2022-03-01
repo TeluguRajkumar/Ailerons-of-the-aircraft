@@ -8,3 +8,6 @@ We see that the quality of the model quickly increases with additional terms unt
 
 We can evaluate the quality of the model using score with any of the supported loss functions. For example, the R^2
   on the training set
+Proper EDA and Statistical analysis of data followed by Developing a model, to predict the column “Goal”.
+Loss function is “RMSE”
+Use of proper feature selection process and hyperparameter tuning 
